@@ -8,7 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ["wow", "item2", "item3", "item4"]
+  array = ["wow", "I", "am", "learning"]
+  array.push["arrays"]
   
 end
 
